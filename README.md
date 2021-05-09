@@ -1,2 +1,2 @@
 # MultiBranchPipeline
-Multibranch pipeline Master branch
+Multibranch pipeline Dev branch
